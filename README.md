@@ -45,3 +45,15 @@ This analysis suggests that a **higher proportion of low-grossing films** signif
 
 📝 **Next Steps:**  
 Consider exploring other factors like genre, production budgets, and marketing impact to further refine this analysis.  
+
+### 6. 📉 Analysing AVG profit by genge
+
+![image](https://github.com/user-attachments/assets/2b84571a-81d4-4579-bb21-14931e399a2e)
+Analyzing the average profit by genre, we can notice that the action genre has a significant advantage over the others.
+
+
+
+
+
+
+
